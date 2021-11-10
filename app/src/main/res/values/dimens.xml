@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin_standard">16dp</dimen>
+    <dimen name="fab_icon_size">35dp</dimen>
+    <dimen name="delete_btn_horizontal_margin">8dp</dimen>
+    <dimen name="item_place_height">100dp</dimen>
+</resources>
